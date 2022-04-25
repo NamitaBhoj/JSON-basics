@@ -1,6 +1,6 @@
-*.csharp linguist-detectable=false  
-*.java linguist-detectable=false  
-*.js linguist-detectable=true  
-*.html linguist-detectable=false  
-*.xml linguist-detectable=false    
-*.css linguist-detectable=false    
+*	text=auto eol=lf
+*.md	linguist-detectable
+CODE_OF_CONDUCT.md	-linguist-detectable
+LICENSE.md	-linguist-detectable
+README.md	-linguist-detectable
+REVIEWING.md	-linguist-detectable
